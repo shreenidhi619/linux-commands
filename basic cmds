@@ -1,0 +1,4 @@
+$ brew install git	- Install Git with Homebrew on Mac OS
+$ sudo port selfupdate	 - Install Git with MacPorts on Mac OS
+$ sudo apt-get install git - 	Install Command for Linux
+$ git –version	 -  Shows the current version of your Git
